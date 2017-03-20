@@ -12,6 +12,6 @@ class InsertionSort
       puts data
     end
   end
-
+ 
 sorter = InsertionSort.new
 sorter.sort(["d", "b", "a", "c"])
