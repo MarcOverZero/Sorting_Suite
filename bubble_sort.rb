@@ -15,6 +15,6 @@ class BubbleSort
     puts data
   end
 end
-
+ 
 sorter = BubbleSort.new
 sorter.sort(["d", "b", "a", "c"])
